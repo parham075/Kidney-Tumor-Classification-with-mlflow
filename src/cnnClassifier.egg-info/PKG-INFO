@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/parham075/Kidney-Tumor-Classification
+Author: parham075
+Author-email: parhammembari@gmail.com
+Project-URL: Bug Tracker, https://github.com/parham075/Kidney-Tumor-Classification/issues
+
+# Kidney-Tumor-Classification-MLFLOW
+This project is the complete workflow of providing and maintaining the life cycle of a model using MLflow to classify image contain Tumor in CT-Scan's images with deployment of the model.
+
