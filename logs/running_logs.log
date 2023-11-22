@@ -47,3 +47,23 @@
 [2023-11-22 15:02:40,943: INFO: common: created directory at: artifacts/data_ingestion]
 [2023-11-22 15:02:40,943: INFO: 57559387: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
 [2023-11-22 15:02:47,712: INFO: 57559387: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-22 15:57:58,642: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-11-22 15:57:58,644: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2023-11-22 15:57:58,644: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-22 15:57:58,644: INFO: common: created directory at: artifacts]
+[2023-11-22 15:57:58,644: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-22 15:57:58,644: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-22 15:58:05,185: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-22 15:58:05,434: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-11-22 15:59:06,662: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-11-22 15:59:06,663: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2023-11-22 15:59:06,664: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-22 15:59:06,664: INFO: common: created directory at: artifacts]
+[2023-11-22 15:59:06,664: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-22 15:59:06,664: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-22 15:59:12,658: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-11-22 15:59:12,910: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
