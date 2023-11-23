@@ -51,3 +51,24 @@ Now,
 ```bash
 open up you local host and port
 ```
+
+
+### dagshub
+Connect to the remote repository using Dagshub from [dagshub](https://dagshub.com/)
+
+> MLFLOW_TRACKING_URI=<dagsub_uri_in_experiments>/
+MLFLOW_TRACKING_USERNAME=Parham075 (github_user_name) \
+MLFLOW_TRACKING_PASSWORD=<dagshub_pass_in_experiments> \
+python script.py
+
+Run this to export as env variables:
+
+```bash
+
+export MLFLOW_TRACKING_URI=<dagsub_uri_in_experiments>
+
+export MLFLOW_TRACKING_USERNAME=Parham075 
+
+export MLFLOW_TRACKING_PASSWORD=<dagshub_pass_in_experiments>
+
+```
